@@ -14,4 +14,12 @@ All you need to know about AWS services such as SageMaker, ECR (Elastic Containe
 
 https://www.youtube.com/watch?v=c8TT8EmNLN0&t=13s
 
+https://www.youtube.com/watch?v=oYm66fHqHUM&list=PLhr1KZpdzukf-xb0lmiU3G89GJXaDbAIF&index=1
+
+https://pages.awscloud.com/SageMakerFridays.html?trk=el_a134p000007C6Q1AAK&trkCampaign=GLBL-FY21-Q3-SageMaker-Fridays&sc_channel=el&sc_campaign=splash.SageMakerFridays&sc_outcome=AIML_Digital_Marketing
+
 https://www.linkedin.com/posts/anantkashyap_recently-i-attempted-for-aws-certified-ai-activity-7242174798154366976-eudU/?utm_source=share&utm_medium=member_android&rcm=ACoAAAe8D0cBW3NxXQaB93SNhHswReYjboBh_2k
+
+https://www.linkedin.com/posts/pooja-jain-898253106_gcp-aws-azure-activity-6980398149022461952-klh_/?utm_source=share&utm_medium=member_android
+
+https://www.linkedin.com/posts/aurimas-griciunas_big-data-cloud-activity-6960116635974168576-ce3J/?utm_source=linkedin_share&utm_medium=android_app
