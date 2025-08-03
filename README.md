@@ -12,6 +12,8 @@ How to create custom ML models in AWS SageMaker
 How to deploy the model as a REST API
 All you need to know about AWS services such as SageMaker, ECR (Elastic Container Registry), Lambda, API Gateway and non AWS Services- Docker
 
+https://github.com/aws/amazon-sagemaker-examples
+
 https://www.youtube.com/watch?v=c8TT8EmNLN0&t=13s
 
 https://www.youtube.com/watch?v=oYm66fHqHUM&list=PLhr1KZpdzukf-xb0lmiU3G89GJXaDbAIF&index=1
